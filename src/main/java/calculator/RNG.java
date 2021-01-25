@@ -1,7 +1,7 @@
 package calculator;
 
 import java.util.List;
-import java.util.Random;
+
 
 final public class RNG extends Operation{
 	
